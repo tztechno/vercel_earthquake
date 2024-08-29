@@ -27,7 +27,7 @@ bash script.sh
 -------------------------
 node fetchEarthquakeData.js
 git add .
-git commit -m "2024-08-18"
+git commit -m "2024-08-29"
 git push -u origin main
 -------------------------
 
